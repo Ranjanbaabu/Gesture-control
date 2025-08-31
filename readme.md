@@ -8,5 +8,5 @@ pip install opencv-python mediapipe pycaw comtypes
 2. To run the project, use the command--
 
 ```
-python gesture-control.py
+python gesture.py
 ```
